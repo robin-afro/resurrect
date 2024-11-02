@@ -1,0 +1,3 @@
+[TimeZones]
+ZoneinfoDir=/etc/zoneinfo
+Zonetab=/etc/zoneinfo/zone.tab
